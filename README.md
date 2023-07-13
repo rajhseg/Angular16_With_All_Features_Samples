@@ -1,6 +1,9 @@
 # Samples
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2. This includes the working sample of 
+following features, retryinterceptor, tokeninterceptor, components, directives, structural directives, pipes, Rxjs, Animations, preloading startegy,
+jquery integration, call a signalR Api, routing, CanActivate, CanDeactivate, Providers, CanResolve, ViewChild, ViewChildren, ContentChild, ContentChildren
+Global ErrorHandler, ControlValueAccesscor, Two Way binding.
 
 ## Development server
 
