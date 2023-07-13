@@ -6,15 +6,16 @@ This includes the working sample of following features
 2. CanActivate, CanDeActivate, CanLoad, CanResolve example
 3. PreLoading Startegy
 4. Routing Moudle with lazy loading enabled
-5. Retry Interceptors
-6. Token Interceptors
-7. Language Internationlization culture change
-8. Providers in Module with UseFactory, UseValue, UseClass, UseExisting, Deps sample
-9. ControlValueAccesscor
-10. Global ErrorHandler
-11. SignalR Integration
-12. JQuery Integration
-13. RxJs Samples
-14. Pipes
-15. Animation Sample
-16. ViewChild, ViewChildren, ContentChild, ContentChildren.
+5. WritableSignal<T>
+6. Retry Interceptors
+7. Token Interceptors
+8. Language Internationlization culture change
+9. Providers in Module with UseFactory, UseValue, UseClass, UseExisting, Deps sample
+10. ControlValueAccesscor
+11. Global ErrorHandler
+12. SignalR Integration
+13. JQuery Integration
+14. RxJs Samples
+15. Pipes
+16. Animation Sample
+17. ViewChild, ViewChildren, ContentChild, ContentChildren.
