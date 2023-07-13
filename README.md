@@ -1,6 +1,6 @@
 # Samples
 
-This includes the working sample of following features 
+This Repo consists of Sample code for angular 16 features which are listed below.
 
 1. Events in Components life
 2. CanActivate, CanDeActivate, CanLoad, CanResolve example
